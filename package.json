@@ -1,0 +1,20 @@
+{
+  "name": "comp229.006.f24.backend",
+  "version": "1.0.0",
+  "description": "COMP229 - Class examples for F2024",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "JavaScript",
+    "COMP229",
+    "MERN"
+  ],
+  "author": "David KC LEE",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
