@@ -91,5 +91,4 @@ function onListening() {
   debug('Listening on ' + bind);
 
   console.log('==== The app is running on http://localhost:' + port );
-
 }
